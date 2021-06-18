@@ -3,6 +3,10 @@
 ### heranca_objeto
 Possui um projeto simples com exemplo de implementação de herança. O projeto possui quatro classes: Classe principal, classe mãe Imovel com endereco e preco e as classes filhas (Imovel)Novo e (Imovel)Velho que possuem desconto ou acréscimo no preço do Imovel.
 
+### pilha-encadeada
+Possui exemplos de implementação de pilha encadeada.
+#### - pilha-encadeada-positiva-e-negativa
+
 ### pilha-sequencial
 Possui três exemplos de implementação de pilhas sequenciais.
 #### - manipula-pilha-sequencial-com-nome
