@@ -5,9 +5,9 @@ Possui um projeto simples com exemplo de implementação de herança. O projeto 
 
 ### pilha-sequencial
 Possui três exemplos de implementação de pilhas sequenciais.
-#### manipula-pilha-sequencial-com-nome
-#### manipula-pilha-sequencial-letras
-#### pilha-sequencial-palindromo
+#### - manipula-pilha-sequencial-com-nome
+#### - manipula-pilha-sequencial-letras
+#### - pilha-sequencial-palindromo
 
 ### Exemplo_objeto.py 
 Possui uma classe pessoa com nome, nascimento e CPF e no mesmo arquivo, fora da classe pessoa, um método principal com menu.
