@@ -5,10 +5,12 @@ Possui um projeto simples com exemplo de implementação de herança. O projeto 
 
 ### pilha-encadeada
 Possui exemplos de implementação de pilha encadeada.
+#### - pilha-encadeada-estudante-com-endereco
 #### - pilha-encadeada-positiva-e-negativa
 
 ### pilha-sequencial
-Possui três exemplos de implementação de pilhas sequenciais.
+Possui quatro exemplos de implementação de pilha sequencial.
+#### - manipula-pilha-sequencial-com-imc
 #### - manipula-pilha-sequencial-com-nome
 #### - manipula-pilha-sequencial-letras
 #### - pilha-sequencial-palindromo
