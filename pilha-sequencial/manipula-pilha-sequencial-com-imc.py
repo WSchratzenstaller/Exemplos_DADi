@@ -2,14 +2,14 @@ class Minha_pilha:
     def __init__(self):
         self.__pilha = []
  
-    def push(self, nome):
-        self.__pilha.append(nome)
+    def push(self, imc):
+        self.__pilha.append(imc)
  
     def pop(self):
         if self.__pilha:
-            del self.__pilha[len(self.__pilha)-1]
+            del self.__pilha[-1]
         else:
-            print("Pilha vazia.")
+            print("Não pode remover, pilha vazia.")
  
     def print_top(self):
         if self.__pilha:
@@ -38,7 +38,7 @@ class Minha_pilha:
                 self.__pilha.append(pilha_temporaria[-1])
                 del (pilha_temporaria[-1])
         else:
-            print("Não há nomes para imprimir.")  
+            print("Não há IMCs para imprimir.")  
 ######
 class Prova1:
     def main():
@@ -46,8 +46,8 @@ class Prova1:
         while True:
             opcao = int(input("Opções:\n"
                               "1 – Incluir novo IMC na pilha.\n"
-                              "2 – Excluir o IMC do topo da pilha.\n"
-                              "3 – Imprimir o IMC do topo da pilha.\n"
+                              "2 – Excluir o último IMC da pilha.\n"
+                              "3 – Imprimir o último IMC da pilha.\n"
                               "4 - Imprimir todos.\n" #(extra - não pedia na questão)
                               "5 - Sair.\n"
                               "Escolha: \n"))
