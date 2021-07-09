@@ -8,7 +8,7 @@ class Minha_fila:
     def atender(self):
         if self.__fila:
             proximo = self.__fila[0]
-            print("Cliente ", proximo.get_nome(), " de senha número ", proximo.get_senha(), " dirija-se ao caixa XX para atendimento!")
+            print("Cliente " + proximo.get_nome() + " de senha número " + str(proximo.get_senha()) + " dirija-se ao caixa XX para atendimento!")
             proximo.set_hora_atendimento()
             del self.__fila[0]
             return proximo
