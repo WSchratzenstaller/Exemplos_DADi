@@ -1,7 +1,7 @@
 ## Exemplos_DADi
 
 ### fila-sequencial
-#### fila sequencial com objeto cliente
+#### fila-sequencial-com-objetos-cliente
 Possui uma classe Minha_fila, uma classe cliente e uma classe principal.
 Os clientes são adicionados na fila, são atendidos e relatórios de clientes na fila e clientes atendidos podem ser visualizados.
 
