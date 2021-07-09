@@ -1,7 +1,7 @@
 from Minha_fila import Minha_fila
 from Dados_atendimento import Dados_atendimento
 
-class Exercicio_fila_sequencial:
+class Fila_sequencial:
     def main():
         senha = 0
         fila_aguardando = Minha_fila()
@@ -35,4 +35,4 @@ class Exercicio_fila_sequencial:
                 print("Opção inválida.")
 
 if __name__ == '__main__':
-    Exercicio_fila_sequencial.main()
+    Fila_sequencial.main()
