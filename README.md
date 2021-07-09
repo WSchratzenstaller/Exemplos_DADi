@@ -1,5 +1,10 @@
 ## Exemplos_DADi
 
+### fila-sequencial
+#### fila sequencial com objeto cliente
+Possui uma classe Minha_fila, uma classe cliente e uma classe principal.
+Os clientes são adicionados na fila, são atendidos e relatórios de clientes na fila e clientes atendidos podem ser visualizados.
+
 ### heranca_objeto
 Possui um projeto simples com exemplo de implementação de herança. O projeto possui quatro classes: Classe principal, classe mãe Imovel com endereco e preco e as classes filhas (Imovel)Novo e (Imovel)Velho que possuem desconto ou acréscimo no preço do Imovel.
 
