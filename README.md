@@ -2,8 +2,8 @@
 
 ### fila-sequencial
 #### fila-sequencial-com-objetos-cliente
-Possui uma classe Minha_fila, uma classe cliente e uma classe principal.
-Os clientes são adicionados na fila, são atendidos e relatórios de clientes na fila e clientes atendidos podem ser visualizados.
+Possui uma classe Minha_fila, uma classe Dados_atendimento (número do cartão, nome, motivo do atendimento, senha, horário atendimento) e uma classe principal.
+Os clientes são adicionados na fila, e podem ser atendidos. Podem ser visualizados relatórios de clientes na fila e de clientes atendidos.
 
 ### heranca_objeto
 Possui um projeto simples com exemplo de implementação de herança. O projeto possui quatro classes: Classe principal, classe mãe Imovel com endereco e preco e as classes filhas (Imovel)Novo e (Imovel)Velho que possuem desconto ou acréscimo no preço do Imovel.
